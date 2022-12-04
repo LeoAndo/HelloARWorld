@@ -6,8 +6,9 @@ https://learn.unity.com/project/ar-hello-world
 <img width="392" alt="スクリーンショット 2022-12-03 20 18 07" src="https://user-images.githubusercontent.com/16476224/205438312-adc7758d-79e8-4f66-9ea5-6dcc0dc77060.png">
 
 # 動作環境
-iOS: 11以上
-Android: 7.0以上
+iOS: 11以上<br>
+Android: 7.0以上<br>
+※ Android 未検証！　時間ある時やります！<br>
 
 # 開発メモ
 https://github.com/LeoAndo/HelloARWorld/issues
